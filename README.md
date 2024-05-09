@@ -35,3 +35,10 @@ To run this project, you need:
 ```bash
 git clone https://github.com/yourusername/springboot-rest-crud.git
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve this project. 
+
+This project is maintained by Amodh Jain S(https://github.com/Amodhjain). 
+
+
