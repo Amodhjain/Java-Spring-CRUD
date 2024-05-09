@@ -8,11 +8,7 @@ This project demonstrates the implementation of CRUD (Create, Read, Update, Dele
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Introduction
 
 With the rise of microservices architecture, building RESTful APIs has become essential for modern web applications. This project aims to provide a clear and concise example of how to develop a RESTful API with CRUD operations using SpringBoot, a popular Java framework known for its simplicity and ease of use.
